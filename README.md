@@ -1,16 +1,16 @@
 # MDSComplexNumbers Framework
 
 ## Initialize/create a New Complex Number:
-var z = Complex() // 0 + 0i
+var z = Complex() // 0 + 0𝒊
 
-var w = Complex(2.5, -4.5) // 2.5 - 4.5i
+var w = Complex(2.5, -4.5) // 2.5 - 4.5𝒊
 
-z = Complex(1.1, 0.9) // 1.1 + 0.9i
+z = Complex(1.1, 0.9) // 1.1 + 0.9𝒊
 
 ## Complex Number Functions:
-var sum = z + w // 3.6 - 3.6i
+var sum = z + w // 3.6 - 3.6𝒊
 
-var product = z * w // 6.8 - 2.7i
+var product = z * w // 6.8 - 2.7𝒊
 
 var areEqual = (z == w) // false
 
