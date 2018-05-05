@@ -1,0 +1,11 @@
+framework module MDSComplexNumbers {
+  umbrella header "MDSComplexNumbers.h"
+
+  export *
+  module * { export * }
+}
+
+module MDSComplexNumbers.Swift {
+    header "MDSComplexNumbers-Swift.h"
+    requires objc
+}
