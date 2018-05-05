@@ -1,4 +1,4 @@
-# MDSComplexNumbers Framework
+# MDSComplexNumbers
 
 ## Initialize/create a New Complex Number:
 var z = Complex() // 0 + 0𝒊
