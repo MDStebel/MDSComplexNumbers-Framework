@@ -14,6 +14,8 @@ var sum = z + w     // 3.6 - 3.6𝒊
 
 var product = z * w     // 6.8 - 2.7𝒊
 
+var quotient = z / w    // 1.10 + 0.90𝒊
+
 var areEqual = (z == w)     // false
 
 var notEqual = (z != w)     // true
@@ -24,3 +26,5 @@ var modulusOfComplexNumber = modulus(z)     // 1.42126704035519
 var aDouble = Double.pi
 
 print(aDouble * w)      // "7.85 - 14.14𝒊"
+
+print(aDouble + z)      // "4.24 + 0.90𝒊"
