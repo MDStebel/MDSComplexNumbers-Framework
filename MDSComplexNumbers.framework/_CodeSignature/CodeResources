@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LmfYqQmrCTE0DRV/klS5GV0zXnI=
+		2e7bLaXxiZ70W9nuqFA/CRxlf8w=
 		</data>
 		<key>Modules/MDSComplexNumbers.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/MDSComplexNumbers.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		o/bC1XTcSRnxAkEjqLB8q/rPJjs=
+		KwufDSiNwNWi890EleynN/krx+0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -68,11 +68,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o/bC1XTcSRnxAkEjqLB8q/rPJjs=
+			KwufDSiNwNWi890EleynN/krx+0=
 			</data>
 			<key>hash2</key>
 			<data>
-			GFHZywwJBZvJkF7lwdXq9PQsIKF5Wx3Krque+4T+aIw=
+			OOkWoA+bphdnOedBVxLPhrk5sm5XZfgaIwTXPcum5SA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
