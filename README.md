@@ -1,5 +1,5 @@
 # MDSComplexNumbers
-## Add complex number types and math functions to iOS
+## Adds complex number types and math functions to iOS
 To use, add the MDSComplexNumbers.framework file to your Xcode project binaries. Make sure to add "import MDSComplexNumbers" to the source code files that use the Complex number type and its methods.
 
 ### Initialize/create a New Complex Number
