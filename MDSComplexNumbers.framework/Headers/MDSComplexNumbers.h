@@ -2,8 +2,8 @@
 //  MDSComplexNumbers.h
 //  MDSComplexNumbers
 //
-//  Created by Michael Stebel on 5/5/18.
-//  Copyright © 2018 Michael Stebel Photography, LLC. All rights reserved.
+//  Created by Michael Stebel on 5/17/18.
+//  Copyright © 2018 Michael Stebel Consulting, LLC. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
