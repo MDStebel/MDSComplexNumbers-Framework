@@ -10,6 +10,10 @@ var w = Complex(2.5, -4.5)    // 2.5 - 4.5𝒊
 
 z = Complex(1.1, 0.9)     // 1.1 + 0.9𝒊
 
+var u = Complex(0, -1)    // -𝒊
+
+u = Complex(0, 1)     // 𝒊
+
 ### Complex Number Functions
 var sum = z + w     // 3.6 - 3.6𝒊
 
